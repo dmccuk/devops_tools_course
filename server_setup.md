@@ -1,18 +1,18 @@
 ## Server Setup
-Take a moment to setup your VM with all the tools your going to need as wek work our way through the course.
+Take a moment to setup your VM with all the tools your going to need as you work your way through the course.
 
 This section will do the following:
 
-  * Update/Upgrade the operating system to the latest available version
-  * Add the ansible REPO
-  * Install some required packages
-    * ansible
-    * wget
-    * curl
-    * git
-    * unzip
-    * awscli
-    * pip
+ * Update/Upgrade the operating system to the latest available version
+ * Add the ansible REPO
+ * Install some required packages
+   * ansible
+   * wget
+   * curl
+   * git
+   * unzip
+   * awscli
+   * pip
 
 Please run the following commands:
 
