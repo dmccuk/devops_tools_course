@@ -1,3 +1,5 @@
+![Alt text](images/devops_tools_course.png?raw=true)
+
 # Introduction to DevOps tools
 Welcome to my Free course. You can find the complete course on my YouTube channel here: https://www.youtube.com/c/LondonIAC
 
