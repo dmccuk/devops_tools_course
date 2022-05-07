@@ -18,3 +18,24 @@ The course will give you an introdurction to the following tools:
  * Jenkins
 
 Subscribe to my channel.
+
+## Youtube links for each video:
+Here are the quick links to each youtube video demo. Please throw them a like!
+
+ * [Chapter-1 Build your first AWS EC2 instance Part 1](https://www.youtube.com/watch?v=XzWyudb4N04)
+ * [Chapter-2 Steup IAM and save your Access&Secret keys]()
+ * [Chapter-3 Steup your Server]()
+ * [Chapter-4 Install, configure and run Packer]()
+ * [Chapter-5 Install Terraform]()
+ * [Chapter-6 Terraform code - Build your Datacentre]()
+ * [Chapter-7 Ansible Indroduction]()
+ * [Chapter-8 Install & configure GitLab]()
+ * [Chapter-9 Ansible: Setup a load balanced web server]()
+ * [Chapter-10 Install and Setup Jenkins]()
+ * [Chapter-11 Gitlab & Jenkins Integration]()
+ * [chapter-12 Setup a Jenkins pipeline using a Jenkinsfile]()
+ * [Chapter-13 Ansible: Add Assert module testing]()
+ * [Chapter-14 APIDB: Collect and store server data]()
+ * [Chapter-15 Install and Setup ElasticStack & Grafana]()
+ * [Chapter-16 Integrate Slack into the build/CICD process]()
+
