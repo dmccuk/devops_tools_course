@@ -24,7 +24,7 @@ Here are the quick links to each youtube video demo. Please throw them a like!
 
  * [Chapter-1 Build your first AWS EC2 instance Part 1](https://www.youtube.com/watch?v=XzWyudb4N04)
  * [Chapter-2 Setup IAM and save your Access&Secret keys](https://www.youtube.com/watch?v=1y3IsgvvY84)
- * [Chapter-3 Setup your Server]()
+ * [Chapter-3 Setup your Control Node](https://youtu.be/1l545lhadz4)
  * [Chapter-4 Install, configure and run Packer]()
  * [Chapter-5 Install Terraform]()
  * [Chapter-6 Terraform code - Build your Datacentre]()
