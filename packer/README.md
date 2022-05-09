@@ -120,7 +120,7 @@ Check the output. At the end you should see something like this:
 ````
 ==> Builds finished. The artifacts of successful builds are:
 --> londonIAC.amazon-ebs.ubuntu: AMIs were created:
-eu-west-2: ami-0663833d442cfccdb
+eu-west-2: ami-093762347983f511b
 ````
 
 Now you can build using this AMI image and it comes with a base set of installed packages. You can see how powerful this is for provisioning and can standardise and speed up VM delivery.
