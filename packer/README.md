@@ -2,19 +2,22 @@
 
 Follow along to create your own AMI image in EC2.
 
- * **If you use this code, it will cost you some AWS Dollars:**
+ * **If you use this code, it could cost you some AWS Dollars:**
  
  ## Requirements:
 
- * Install awscli and use this to hold you AWS ACCESS & SECRET keys
+ * Create your own Ubuntu 20.04 VM in AWS. Watch this video (https://youtu.be/XzWyudb4N04)
+ * Install awscli and use this to hold you AWS ACCESS & SECRET keys. Watch this video to get your AWS & Secret key (https://youtu.be/1y3IsgvvY84)
  * You'll need to install Packer (https://www.packer.io/downloads.html)
  * This demo was performed using Ubuntu 20.04
- * Linux packages required (install these): git wget unzip
+ * Install required Linux packages. Watch this video (https://youtu.be/1l545lhadz4)
  * Clone this repo
 
 ## Follow these Commands:
+Log into your newly create VM.
 
 ````
+$ cd
 $ git clone https://github.com/dmccuk/devops_tool_course.git
 Cloning into 'devops_tool_course'...
 remote: Enumerating objects: 17, done.
@@ -122,6 +125,8 @@ eu-west-1: ami-078042f4aa5654a94
 
 Now you can build using this AMI image and it comes with a base set of installed packages. You can see how powerful this is for provisioning and can standardise and speed up VM delivery.
 
+** Repeat this process per AWS region. You cannot use an AMI created in one region, in another. **
+
 That’s it.
 
 Have fun and enjoy.
@@ -130,7 +135,7 @@ Have fun and enjoy.
 
 After running the above example, your AWS account now has an AMI associated with it. AMIs are stored in S3 by Amazon, so unless you want to be charged about $0.01 per month, you'll probably want to remove it. Remove the AMI by first deregistering it on the AWS AMI management page. Next, delete the associated snapshot on the AWS snapshot management page.
 
-Terminate the image and the snapshot here (Just change the availability zone to the one you built in1)
+Terminate the image and the snapshot here (Just change the availability zone to the one you built in)
   * https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Images:sort=name
   * https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Snapshots:sort=snapshotId
   
