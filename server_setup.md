@@ -20,7 +20,7 @@ Please run the following commands:
 $ echo | sudo apt-add-repository ppa:ansible/ansible
 $ sudo apt update -yq
 $ sudo DEBIAN_FRONTEND=noninteractive apt upgrade -yq
-$ sudo apt install wget curl git ansible unzip git awscli pip -yq
+$ sudo apt install wget curl git ansible unzip awscli pip -yq
 
 $ [[ ! -f /home/ubuntu/.ssh/mykey ]] \
 && mkdir -p /home/ubuntu/.ssh \
