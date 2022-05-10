@@ -163,7 +163,7 @@ aws_instance.LondonIAC_example_01: Destruction complete after 30s
 Destroy complete! Resources: 1 destroyed.
 ```
 
-### Next Terraform variables
+### Step 2- Variables in Terraform
 In this next section, we use a variables file to control the information we pass to to terraform.
 
 ```
@@ -220,7 +220,7 @@ $ terraform destroy
 While you run these commands , check in the AWS console and watch your instance getting created. Again, this instance can't so anything. It was a simple example to show you how we can use variables to control what terraform does.
 
 
-### Create an NGINX webserver
+### Step 3 - Create an NGINX webserver and SSH into the instance
 In this exercise, were going to do something a bit more interesting. We're going to install and run a webserver on our instance, but also we're going to create some SSH keys and log into the server from our control node.
 
 follow these steps:
