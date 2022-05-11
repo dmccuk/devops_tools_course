@@ -72,7 +72,7 @@ drwxrwxr-x 2 ubuntu ubuntu 4096 May 10 16:30 variables
 
 ````
 ### Step 1 - Create your first instance
-Lets check that your AWS credentials are working correctly by building just a straight VM from your AMI image you created in the previous lab.
+Lets check that your AWS credentials are working correctly in Terraform by building just a straight VM from your AMI image you created in the previous lab.
 
 Get your AMI-ID and follow these steps:
 
@@ -96,7 +96,7 @@ resource "aws_instance" "LondonIAC_example_01" {
 Once complete, tun these terraform commands to inistialise and run terraform to create your instance.
 
 ```
-form init
+$ terraform init
 
 Initializing the backend...
 
