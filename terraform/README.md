@@ -32,7 +32,7 @@ $ cd devops_tools_course
 $ cd terraform
 $ wget https://releases.hashicorp.com/terraform/1.1.9/terraform_1.1.9_linux_amd64.zip
 $ sudo apt install unzip
-$ sudo 
+$ sudo unzip terraform_1.1.9_linux_amd64.zip
 $ sudo mv terraform /usr/local/bin/
 $ echo $PATH
 $ terraform
