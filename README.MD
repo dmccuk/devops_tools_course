@@ -26,7 +26,7 @@ Here are the quick links to each youtube video demo. Please throw them a like!
  * [Chapter-2 Setup IAM and save your Access&Secret keys](https://www.youtube.com/watch?v=1y3IsgvvY84)
  * [Chapter-3 Setup your Control Node](https://youtu.be/1l545lhadz4)
  * [Chapter-4 Install, configure and run Packer](https://youtu.be/dIAhHhQ_J-c)
- * [Chapter-5 Install Terraform]()
+ * [Chapter-5 Install Terraform and build Instances in AWS](https://youtu.be/VS2sQgUgomE)
  * [Chapter-6 Terraform code - Build your Datacentre]()
  * [Chapter-7 Ansible Indroduction]()
  * [Chapter-8 Install & configure GitLab]()
