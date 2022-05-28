@@ -1,4 +1,4 @@
-## Packer demo (Introduction to packer)
+## Terraform demo (Introduction to Terraform)
 
 Follow along to create your own AMI image in EC2.
 
