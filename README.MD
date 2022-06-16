@@ -28,7 +28,7 @@ Here are the quick links to each youtube video demo. Please throw them a like!
  * [Chapter-4 Install, configure and run Packer](https://youtu.be/dIAhHhQ_J-c)
  * [Chapter-5 Install Terraform and build Instances in AWS](https://youtu.be/VS2sQgUgomE)
  * [Chapter-6 Terraform code - Build your Datacentre]()
- * [Chapter-7 Ansible Indroduction]()
+ * [Chapter-7 Ansible Introduction]()
  * [Chapter-8 Install & configure GitLab]()
  * [Chapter-9 Ansible: Setup a load balanced web server]()
  * [Chapter-10 Install and Setup Jenkins]()
