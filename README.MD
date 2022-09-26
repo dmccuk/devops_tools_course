@@ -19,6 +19,7 @@ The course will give you an introdurction to the following tools:
 
 Subscribe to my channel.
 
+All videos will be available on this [YouTube playlist](https://www.youtube.com/playlist?list=PLLZBsGo9tR9qYqo89-6LCWiSUHf82ZFRi)
 ## Youtube links for each video:
 Here are the quick links to each youtube video demo. Please throw them a like!
 
@@ -27,7 +28,7 @@ Here are the quick links to each youtube video demo. Please throw them a like!
  * [Chapter-3 Setup your Control Node](https://youtu.be/1l545lhadz4)
  * [Chapter-4 Install, configure and run Packer](https://youtu.be/dIAhHhQ_J-c)
  * [Chapter-5 Install Terraform and build Instances in AWS](https://youtu.be/VS2sQgUgomE)
- * [Chapter-6 Terraform code - Build your Datacentre]()
+ * [Chapter-6 Terraform code - Build your Datacentre](https://youtu.be/yLvDSrnWMyQ)
  * [Chapter-7 Ansible Introduction]()
  * [Chapter-8 Install & configure GitLab]()
  * [Chapter-9 Ansible: Setup a load balanced web server]()
